@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Absichtlich ungültig: bookingID fehlt (use="required"),
+departureDate ist im deutschen Format statt xs:date (YYYY-MM-DD) -->
+<booking>
+    <passenger>
+        <firstName>Azizbek</firstName>
+        <lastName>Rakhmanov</lastName>
+    </passenger>
+    <flightNumber>HB2324</flightNumber>
+    <departureDate>20.12.2026</departureDate>
+    <seats>1</seats>
+    <status>confirmed</status>
+</booking>
