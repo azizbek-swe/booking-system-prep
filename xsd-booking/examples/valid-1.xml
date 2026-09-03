@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<booking bookingID="7770">
+    <passenger>
+        <firstName>Aziz</firstName>
+        <lastName>Rakhmanov</lastName>
+    </passenger>
+    <passenger>
+        <firstName>Max</firstName>
+        <lastName>Mustermann</lastName>
+    </passenger>
+    <passenger>
+        <firstName>Timur</firstName>
+        <lastName>Rakhmanov</lastName>
+    </passenger>
+    <flightNumber>322B</flightNumber>
+    <departureDate>2026-12-19</departureDate>
+    <seats>3</seats>
+    <status>confirmed</status>
+</booking>
