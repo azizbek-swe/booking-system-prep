@@ -1,8 +1,9 @@
 # booking-system-prep
 
-Übungsprojekt zur Nachklausur-Vorbereitung für **Anwendungssysteme / Engineering verteilter Anwendungen** (TU Berlin, Nachklausur 2026-10-01). Jedes Modul übt gezielt einen Themenblock aus dem Kurs — Details und Zeitplan siehe `~/Desktop/AS/Exam-Study-Guide.md`.
+Übungsprojekt zur Nachklausur-Vorbereitung für **Anwendungssysteme / Engineering verteilter Anwendungen** (TU Berlin, Nachklausur 2026-10-01). Jedes Modul übt gezielt einen Themenblock aus dem Kurs.
 
-*→ Учебный проект для подготовки к пересдаче по Anwendungssysteme. Каждый модуль тренирует один тематический блок курса.*
+![CI](https://github.com/azizbek-swe/booking-system-prep/actions/workflows/ci.yml/badge.svg)
+
 
 ## Module
 
